@@ -1,5 +1,3 @@
-# yangheeryu
-
 # 고운바탕체(GowunBatang)
 <a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/yangheeryu/GowunBatang.jpg" alt="GowunBatang" style="width:300px">
