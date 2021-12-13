@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Dongle';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleLight.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleLight?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleLight.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleLight.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'Dongle';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleRegular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleRegular?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleRegular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleRegular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleRegular.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'Dongle';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleBold?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/DongleBold.ttf') format("truetype");
+    font-display: swap;
+} 
